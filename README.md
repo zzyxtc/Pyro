@@ -6,3 +6,6 @@ This repository contains the experiments in the paper:
 
 Pyro is a practical algorithm-system co-design, which achieves flexible thermal events detection without additional side-channel leakage.
 
+## Contact
+
+If there are questions regarding these experiments, please send an email to `zhangxin00sdu@gmail.com`.
