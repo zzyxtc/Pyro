@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# WorkBuddy workspace data
+.workbuddy/
+
+# Model checkpoints
+*.pth
+
+# Generated figures
+training_loss.png
+confusion_matrix.png
+roc_vis.png
+predict_vis.png
